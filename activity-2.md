@@ -84,11 +84,11 @@ They also support a nice menu with the option to sort by "Discover".
 
 They've started rolling out some daily identity file exports. These are not and are not intended to be complete data exports. Instead, it has a list of valid identifiers that you can find on TMDB and some high-level attributes that help filter out items like adult, video, and popularity values.
 
-### **Authentication**
+>### **Authentication**
 
 Each request to **TMDB** APIs needs to be authenticated with an **API Key**.
 
-### **Endpoints**
+> ### **Endpoints**
 
 Requests can be sent to the following endpoint:
 

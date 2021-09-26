@@ -96,3 +96,10 @@ Requests can be sent to the following endpoint:
 
 
 [App URL](https://omar-city-explore.netlify.app/)
+
+
+## **GitHub links(front-end, back-end)**
+
+[Front-End/GitHub](https://github.com/OmarAlbarghouthi/city-explorer-api)
+
+[Back-End/GitHub](https://github.com/OmarAlbarghouthi/lab07)
